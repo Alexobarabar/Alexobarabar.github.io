@@ -166,7 +166,7 @@ footer {
     border: .2rem solid var(--main-color);
     border-radius: 60%;
     box-shadow: 0 .2rem .5rem var linear-gradient(45deg, #f06, #3cf);
-    font-size: 70px;
+    font-size: 40px;
     color: var(--main-color);
     margin: 2.6rem 1.5rem 0;
     transition: .5s ease;
